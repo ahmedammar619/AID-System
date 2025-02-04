@@ -14,8 +14,7 @@ AID System is a multilingual platform designed for the American Islamic Diversit
 📄 **Online Docs**: [View the Documentation](./Docs/SystemDocumentation.docx)  
 📄 **PDF Version**: [View the PDF](./Docs/SystemDocumentation.pdf)
 
-🖼️ **ER Diagram**: [View the Diagram](./Docs/ERDiagram.pdf)
-
+![ERD Diagram](./Docs/ERDiagram.png)
 ---
 
 ## ✨ Features  
