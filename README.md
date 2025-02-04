@@ -10,10 +10,10 @@ AID System is a multilingual platform designed for the American Islamic Diversit
 - **Admins** to manage logistics, SMS campaigns, and real-time delivery tracking.  
 
 ## Documentation
-📄 **Online Docs**: [View the Documentation](Docs/AID\ System\ Documentation.docx)  
-📄 **PDF Version**: [View the PDF](Docs/AID\ System\ Documentation.pdf)
+📄 **Online Docs**: [View the Documentation](Docs/AID System Documentation.docx)  
+📄 **PDF Version**: [View the PDF](Docs/AID System Documentation.pdf)
 
-🖼️ **ERD Diagram**: [View the PDF](Docs/AID\ ERD\ Diagram.pdf)
+🖼️ **ERD Diagram**: [View the Diagram](Docs/AID ERD Diagram.pdf)
 ---
 
 ## ✨ Features  
