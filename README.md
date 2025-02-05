@@ -49,3 +49,16 @@ AID System is a multilingual platform designed for the American Islamic Diversit
 - MapBox API Key ([Get Key](https://opencagedata.com/api](https://www.mapbox.com/address-autofill)))
 - FontAwsome API Key ([Get Key](https://fontawesome.com/start))
 
+### Steps  
+1. **Database Setup**:  
+   - Import the `DB.sql` file (located in `extras/DB.sql`) into your MySQL database using phpMyAdmin or CLI.
+   - Replace DB_SERVER_NAME, DB_USERNAME, DB_PASSWORD and DB_NAME values (located in `php/db.php`) with your server connection credentials.
+2. **API Key Names**:
+   - Search for the following names (Cmd+Shift+F on VScode) and change them with your API key:
+     - FONTAWESOME_API_KEY
+     - OPEN_CAGE_API_KEY
+     - MAPBOX_API_KEY
+     - TWILIO_ACCOUNT_SID
+     - TWILIO_AUTH_TOKEN
+     - TWILIO_RECIPIENT_PHONE_NUMBER
+     - TWILIO_VOLUNTEER_PHONE_NUMBER
