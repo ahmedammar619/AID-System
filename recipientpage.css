@@ -1,0 +1,91 @@
+
+.profile-container{
+    MIN-height: 700px;
+    width: 500px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    box-sizing: border-box;
+    padding: 28px;
+    padding-top:40px;
+    /* overflow: hidden; */
+    margin: 0;
+    transition: all .3s ease;
+    
+}
+
+hr{
+    margin: 5px !important;
+}
+.profile-container h1{
+    text-align: center;
+    margin: 20px;
+}
+.profile-container *{
+    margin: 0px;
+    padding:0;
+}
+.profile-container div , .profile-container form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: space-between; */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.profile-container label{
+    margin: 0;
+}
+.profile-container p{
+    margin-left: 10px;
+    text-align: left !important;
+    width: max-content;
+    margin: 0;
+}
+.profile-container hr{
+    width: 100%;
+}
+.profile-container button{
+    width: fit-content;
+    padding:0 15px 0 15px;
+    background: lightblue;
+    margin-left: auto;
+    margin-right: 0;
+
+}
+.profile-exit{
+    font-size: xx-large !important;
+}
+.red-alert{
+    max-width: fit-content;
+    gap: 10px;
+    /* display: none; */
+}
+.red-alert *{
+    color: red;
+    font-size: 20px;
+    display: inline;
+    margin: 0;
+    width: fit-content;
+}
+
+p{
+    margin: 10px !important;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+    .profile-container{
+        max-width: 100%;
+        width: 100%;
+        min-height: auto;
+    }
+}
+
