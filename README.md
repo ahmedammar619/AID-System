@@ -54,7 +54,7 @@ AID System is a multilingual platform designed for the American Islamic Diversit
    - Import the `DB.sql` file (located in `extras/DB.sql`) into your MySQL database using phpMyAdmin or CLI.
    - Replace DB_SERVER_NAME, DB_USERNAME, DB_PASSWORD and DB_NAME values (located in `php/db.php`) with your server connection credentials.
 2. **API Key Names**:
-   - Search for the following names (Cmd+Shift+F on VScode) and change them with your API key:
+   - Search for the following values (Cmd+Shift+F on VScode) and change them with your API key:
      - FONTAWESOME_API_KEY
      - OPEN_CAGE_API_KEY
      - MAPBOX_API_KEY
